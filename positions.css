@@ -38,3 +38,25 @@
     background-color: #aad4f5;
 }
 
+#ex21_a {
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: #f5c6aa;
+}
+#ex21_b {
+    position: relative;
+    top: -10px;
+    background-color: #aaf5c6;
+}
+#ex21_c {
+    position: relative;
+    left: 100px;
+    background-color: #c6aaf5;
+}
+
+#ex22_b2 {
+    position: relative;
+    top: 60px;
+    background-color: #f5e6aa;
+}
