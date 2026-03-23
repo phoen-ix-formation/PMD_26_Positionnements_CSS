@@ -127,3 +127,19 @@
     left: var(--absolute-space);
     background-color: #aaaaff;
 }
+
+#ex33_conteneur {
+    position: relative;
+    height: 200px;
+    background-color: #eee;
+    border: 2px solid black;
+}
+
+#ex33_boite {
+    position: absolute;
+    top: 20px;
+    bottom: 20px;
+    right: 20px;
+    left: 20px;
+    background-color: #f5c6aa;
+}
