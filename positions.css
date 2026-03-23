@@ -24,3 +24,9 @@
     padding: 10px;
     background-color: #eee;
 }
+
+/* Partie 1 - Positionnement statique */
+#partie1 div {
+    position: static; /*< Ne change rien à l'affichage */
+}
+
